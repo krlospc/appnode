@@ -1,0 +1,18 @@
+{
+    "development":{
+        "username":"krlos",
+        "password":"password",
+        "database":"mykrlosdb",
+        "host":"localhost",
+        "port":5432,
+        "dialect":"postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": "postgres",
+        "database": "cursonode",
+        "host": "10.0.0.199",
+        "port": 5432,
+        "dialect": "postgres"
+    }
+}
